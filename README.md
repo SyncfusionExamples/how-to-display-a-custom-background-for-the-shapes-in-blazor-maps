@@ -44,11 +44,6 @@ This sample demonstrates how to apply a custom SVG pattern as the background for
 dotnet restore
 dotnet run
 ```
-
-## Project Structure
-
-`Pages/Index.razor` — Contains the primary Syncfusion Maps implementation, SVG pattern definition, map-layer configuration, and custom shape-background rendering logic.
-
 ## Support and Feedback
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
